@@ -11,13 +11,11 @@ ul {
      text-align: center;
     }
 li {
-     list-style-type: none;
+    list-style-type: none;
 	text-align: left
     }
 a {
     text-decoration-line: none;
-    color: blue;
-    font-weight: bold;
   }
 
 .player_one, .player_two {
